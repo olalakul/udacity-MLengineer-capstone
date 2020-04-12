@@ -35,7 +35,7 @@ This project uses
 * scipy
 * pandas
 * scikit-learn
-* keras
+* tensorflow (keras API)
 
 For visualization
 
